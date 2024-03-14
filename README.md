@@ -1,2 +1,2 @@
 # P_ToBI_transcriber
-A Praat script that transcribes intonation using P_ToBI system
+A Praat script that transcribes European Portuguese intonation using P_ToBI system
