@@ -7,4 +7,4 @@ The system was trained on a 96-sentence corpus comprising all Nuclear Pitch Acce
 The qualitative analysis of errors, excluding those stemming from the pitch tracking algorithm, exposes challenges in accurately identifying falling NPAs, particularly instances of L*, H*+L, and H+L* followed by a low BT.
 
 >[!TIP]
->Please cite as: Elvira-García, Wendy; Marisa Cruz, Marina Vigário, Sónia Frota. (accepted). An automatic prosodic transcriber for the P-ToBI system. Speech Prosody 2024. Leiden.
+>Please cite as: Elvira-García, Wendy; Marisa Cruz, Marina Vigário, Sónia Frota. (2024). An automatic prosodic transcriber for the P-ToBI system. Speech Prosody 2024. Leiden.
