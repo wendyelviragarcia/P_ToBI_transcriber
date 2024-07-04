@@ -1,5 +1,5 @@
 # P_ToBI intonational transcriber
-A Praat script that transcribes European Portuguese intonation using P_ToBI system. Check the [2024 Speech Prosody poster](2024_poster_P_ToBI_SP.pdf) and the paper [paper to appear](#)
+A Praat script that transcribes European Portuguese intonation using P_ToBI system. Check the [2024 Speech Prosody poster](2024_poster_P_ToBI_SP.pdf).
 
 
 A rule-based Praat script designed to generate P-ToBI labels based on the pitch contour given a tier with by-syllable intervals and stress marks. 
